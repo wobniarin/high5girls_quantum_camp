@@ -1,5 +1,6 @@
 # high5girls_quantum_camp
 Examples of code to be shown during the High5Girls camp hosted at DTU on the 18th and 19th of November, 2022. 
+The code is taken from the D-WAVE platform, for teaching purposes. 
 
 ## Getting started 
 ### Part 1: Planning a meal 
